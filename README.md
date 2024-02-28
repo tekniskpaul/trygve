@@ -1,2 +1,0 @@
-# trygve
-trygve sin nettside
